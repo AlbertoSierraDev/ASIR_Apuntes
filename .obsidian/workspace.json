@@ -4,49 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6c867a4c2fad087f",
+        "id": "381acdeedb223151",
         "type": "tabs",
         "children": [
           {
-            "id": "c14ed2534b073f3b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "44fb0ca98c88d40a",
+            "id": "7415e8edc0bd6f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implantación de Sistemas Operativos/Sesión 1 Introducción a los sistemas operativos.md",
+                "file": "GESTIÓN DE BASE DE DATOS/Unidad 2. Diseño lógico de una base de datos..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 1 Introducción a los sistemas operativos"
+              "title": "Unidad 2. Diseño lógico de una base de datos."
             }
           },
           {
-            "id": "14eb79c1c609a888",
+            "id": "3f0c9ebac62a4f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implantación de Sistemas Operativos/Sesión 2 Arquitectura de los sistemas operativos.md",
+                "file": "IPE/Tema 1. Prevención de riesgos laborales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 2 Arquitectura de los sistemas operativos"
+              "title": "Tema 1. Prevención de riesgos laborales"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,16 +203,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "14eb79c1c609a888",
+  "active": "3f0c9ebac62a4f6b",
   "lastOpenFiles": [
+    "IPE/Tema 1. Prevención de riesgos laborales.md",
+    "IPE",
+    "GESTIÓN DE BASE DE DATOS/Unidad 2. Diseño lógico de una base de datos..md",
+    "GESTIÓN DE BASE DE DATOS/Unidad 1. Introduccion a las bases de datos.md",
     "Implantación de Sistemas Operativos/Sesión 1 Introducción a los sistemas operativos.md",
     "Implantación de Sistemas Operativos/Sesión 2 Arquitectura de los sistemas operativos.md",
+    "LENGUAJES DE MARCAS Y SISTEMAS DE GESTIÓN DE INFORMACION/Unidad 1. Características de los lenguajes de marcas.md",
+    "FUNDAMENTOS DE HARDWARE/Sesión 1-El hardware del ordenador.md",
+    "FUNDAMENTOS DE HARDWARE",
     "Implantación de Sistemas Operativos",
     "Planificación y administración de redes/Sesión 1 (después de la presentación).md",
     "Planificación y administración de redes",
     "Sin título.canvas",
-    "GESTIÓN DE BASE DE DATOS/Unidad 1. Introduccion a las bases de datos.md",
-    "LENGUAJES DE MARCAS Y SISTEMAS DE GESTIÓN DE INFORMACION/Unidad 1. Características de los lenguajes de marcas.md",
     "GESTIÓN DE BASE DE DATOS",
     "Bienvenido.md",
     "LENGUAJES DE MARCAS Y SISTEMAS DE GESTIÓN DE INFORMACION"
